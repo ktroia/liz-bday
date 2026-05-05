@@ -1,0 +1,33 @@
+body {
+  display: grid;
+  place-items: center;     
+  height: 100vh;
+  margin: 0;
+  padding: 10;
+  align-content: start;
+}
+
+a, a:visited {
+    display: none;
+    margin-top: 30px;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(2, 59, 52);
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+      font-size: 140%;
+}
+
+
+h1 {
+  padding:90px 0px 50px 0px;
+  font-size: 140%;
+
+}
+p{
+  padding: 15px;
+  font-size: 120%;
+}
