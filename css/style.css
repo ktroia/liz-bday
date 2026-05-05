@@ -31,3 +31,6 @@ p{
   padding: 15px;
   font-size: 120%;
 }
+canvas{
+  padding-bottom: 20px;
+}

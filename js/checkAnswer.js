@@ -13,7 +13,7 @@ form.addEventListener('submit', function(event) {
   
 
   if(input.value == '-1/12'){
-    out.innerText = "Good work! The third missing digit is 3";
+    out.innerText = "You win! The third missing digit is 3";
     const bttn = document.querySelector("a");
     bttn.style.display = "block";
   }
